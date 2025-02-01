@@ -6,4 +6,9 @@ let Sindefinir, SinDefinir= undefined; //ambas son indefinidas
 let nulo=null;
 
 
-console.log(nombre);
+console.log(numero);
+console.log(string);
+console.log(verdadero);
+console.log(falso);
+console.log(Sindefinir);
+console.log(nulo);
