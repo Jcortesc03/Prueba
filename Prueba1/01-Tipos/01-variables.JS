@@ -12,3 +12,4 @@ console.log(verdadero);
 console.log(falso);
 console.log(Sindefinir);
 console.log(nulo);
+console.log("Hola")
